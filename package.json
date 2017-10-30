@@ -1,0 +1,5 @@
+{
+  "name": "docker-passenger-rails",
+  "private": true,
+  "dependencies": {}
+}
